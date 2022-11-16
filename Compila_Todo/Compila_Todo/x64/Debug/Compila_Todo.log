@@ -1,0 +1,5 @@
+﻿  lex.yy.c
+lex.yy.c(623,10): warning C4102: 'find_rule': etiqueta sin referencia
+  sintactico.tab.c
+  Generando código...
+  Compila_Todo.vcxproj -> C:\Users\javav\OneDrive\Escritorio\Vazquez_Javier\Compila_Todo\x64\Debug\Compila_Todo.exe

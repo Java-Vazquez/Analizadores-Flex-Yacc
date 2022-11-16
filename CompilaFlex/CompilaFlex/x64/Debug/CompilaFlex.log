@@ -1,0 +1,4 @@
+﻿  lexicografico.c
+lexicografico.c(920,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+lexicografico.c(1087,28): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+  CompilaFlex.vcxproj -> C:\Users\javav\OneDrive\Escritorio\Vazquez_Javier\CompilaFlex\x64\Debug\CompilaFlex.exe
